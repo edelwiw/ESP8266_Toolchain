@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "user_interface.h": "c",
+        "esp_common.h": "c",
+        "freertos.h": "c"
+    }
+}

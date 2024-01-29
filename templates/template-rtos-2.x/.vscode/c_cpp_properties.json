@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/json",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/lib",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/extra_include",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/driver_lib/include",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/espressif",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/lwip",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/lwip/ipv4",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/lwip/ipv6",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/nopoll",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/spiffs",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/ssl",
+                "/Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/openssl",
+                "inc"
+            ],
+            "defines": [],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

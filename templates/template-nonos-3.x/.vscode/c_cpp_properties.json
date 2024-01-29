@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/alexivanov/ESP8266/ESP8266_NONOS_SDK-3.0.5/include",
+                "/Users/alexivanov/ESP8266/ESP8266_NONOS_SDK-3.0.5/include/json",
+                "/Users/alexivanov/ESP8266/ESP8266_NONOS_SDK-3.0.5/lib",
+                "/Users/alexivanov/ESP8266/ESP8266_NONOS_SDK-3.0.5/driver_lib/include",
+                "inc"
+            ],
+            "defines": [],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

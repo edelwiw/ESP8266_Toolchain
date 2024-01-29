@@ -1,0 +1,32 @@
+.output/eagle/debug/obj/cJSON.o .output/eagle/debug/obj/cJSON.d : cJSON.c \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/string.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/_ansi.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/newlib.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/config.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/features.h \
+ /Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/extra_include/xtensa/config/core-isa.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/reent.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/_ansi.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/_types.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/_types.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/_default_types.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/lock.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include/stddef.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/cdefs.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/string.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/stdio.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include/stdarg.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/types.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/types.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/stdio.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/math.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/stdlib.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/machine/stdlib.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/alloca.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include/float.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include-fixed/limits.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include-fixed/syslimits.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/limits.h \
+ /Users/alexivanov/ESP8266/xtensa-lx106-elf/xtensa-lx106-elf/include/ctype.h \
+ /Users/alexivanov/ESP8266/ESP8266_RTOS_SDK-2.1.1/include/json/cJSON.h
